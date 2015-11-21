@@ -1,10 +1,14 @@
 {
   "name": "color-wrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extends a logger or console to have a simplified dsl for console/logger std out.",
   "main": "index.js",
   "scripts": {
     "test": "mocha spec/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmccready/color-wrap"
   },
   "keywords": [
     "colors",
