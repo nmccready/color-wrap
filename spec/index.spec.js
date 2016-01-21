@@ -1,6 +1,6 @@
 "use strict"
 
-require('should')
+require('chai').should()
 const colorWrap = require('../index.js'),
   styles = require('colors/lib/styles'),
   util = require('util')

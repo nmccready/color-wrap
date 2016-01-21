@@ -1,6 +1,6 @@
 {
   "name": "color-wrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Extends a logger or console to have a simplified dsl for console/logger std out.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.3.4",
-    "should": "^7.1.1"
+    "mocha": "^2.3.4"
   }
 }
