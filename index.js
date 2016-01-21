@@ -27,4 +27,5 @@ module.exports = function(logger, levels) {
     extLogFn(lvl)
   }
 
+  return logger
 }
